@@ -164,6 +164,7 @@ h1, .h1 {
     gap: 10px; 
     padding: 10px; 
     max-width: 100%;
+    box-sizing: border-box; 
 }
 
 .more-image1, .more-image2, .more-image3, .more-image4 {
@@ -181,7 +182,6 @@ h1, .h1 {
     margin: 0; 
     padding: 2px;
     box-sizing: border-box; 
-    object-fit: cover;
 }
 
 h2, .h2 {
