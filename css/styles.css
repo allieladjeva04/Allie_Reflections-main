@@ -166,6 +166,7 @@ h1, .h1 {
     max-width: 100%;
     overflow: hidden; 
     box-sizing: border-box; 
+    object-fit: contain;
 }
 
 .more-image1, .more-image2, .more-image3, .more-image4 {
@@ -174,12 +175,13 @@ h1, .h1 {
     vertical-align: middle;
     box-sizing: border-box;
     height: 400px; 
+    width: 200px; 
 }
 
 .more-image1 img, .more-image2 img, .more-image3 img, .more-image4 img {
     display: block; 
     max-width: 100%;
-    width: auto; 
+    width: 200px; 
     height: 400px; 
     margin: 0; 
     padding: 2px;
