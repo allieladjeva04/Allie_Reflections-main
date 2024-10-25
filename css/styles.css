@@ -173,6 +173,7 @@ h1, .h1 {
     padding: 2px;
     vertical-align: middle;
     box-sizing: border-box;
+    height: 400px; 
 }
 
 .more-image1 img, .more-image2 img, .more-image3 img, .more-image4 img {
