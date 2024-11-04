@@ -134,7 +134,7 @@ h1, .h1 {
 .header-images {
     display: flex;
     justify-content: center; 
-    gap: 10px; 
+    gap: 20px; 
     padding: 10px; 
     max-width: 100%;
     box-sizing: border-box; 
