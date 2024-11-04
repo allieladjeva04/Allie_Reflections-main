@@ -139,6 +139,7 @@ h1, .h1 {
     max-width: 100%;
     box-sizing: border-box; 
     overflow: hidden; 
+    margin-bottom: 40px;
 }
 
 .header-image1, .header-image2, .header-image3, .header-image4 {
