@@ -134,7 +134,7 @@ h1, .h1 {
 .header-images {
     display: flex;
     justify-content: center; 
-    gap: 20px; 
+    gap: 30px; 
     padding: 10px; 
     max-width: 100%;
     box-sizing: border-box; 
@@ -147,6 +147,7 @@ h1, .h1 {
     padding: 2px;
     vertical-align: middle;
     box-sizing: border-box;
+    margin: 10px;
 }
 
 .header-image1 img, .header-image2 img, .header-image3 img, .header-image4 img {
