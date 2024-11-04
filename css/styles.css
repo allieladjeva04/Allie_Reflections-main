@@ -252,6 +252,9 @@ p {
     line-height: 1.6; /* Improves readability by increasing line height */
     font-family: 'Georgia', serif; 
 }
+.btn-spacing {
+    margin-bottom: 10px; /* Adjust the value as needed */
+}
 
 abbr[title] {
   -webkit-text-decoration: underline dotted;
